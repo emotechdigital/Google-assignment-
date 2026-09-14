@@ -1,0 +1,30 @@
+.footer {
+  background: #f2f2f2;
+  color: #70757a;
+  font-size: 14px;
+  margin-top: auto;
+}
+
+.footer-location {
+  padding: 12px 24px;
+  border-bottom: 1px solid #dadce0;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 12px 24px;
+  gap: 12px;
+}
+
+.footer-links .group {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.footer-links span:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

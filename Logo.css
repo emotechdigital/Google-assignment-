@@ -1,0 +1,17 @@
+.logo {
+  font-size: 90px;
+  font-weight: 400;
+  letter-spacing: -2px;
+  user-select: none;
+  line-height: 1;
+}
+
+.logo.small {
+  font-size: 28px;
+  letter-spacing: -1px;
+}
+
+.logo .blue { color: #4285F4; }
+.logo .red { color: #EA4335; }
+.logo .yellow { color: #FBBC05; }
+.logo .green { color: #34A853; }
