@@ -1,12 +1,12 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import TopNav from "./components/TopNav";
-import PageNav from "./components/PageNav";
-import Footer from "./components/Footer";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Products from "./pages/Products";
-import Company from "./pages/Company";
+import TopNav from "./TopNav";
+import PageNav from "./PageNav";
+import Footer from "./Footer";
+import Home from "./Home";
+import About from "./About";
+import Products from ".Products";
+import Company from "./Company";
 import "./App.css";
 
 export default function App() {
