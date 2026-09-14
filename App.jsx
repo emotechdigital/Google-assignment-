@@ -5,7 +5,7 @@ import PageNav from "./PageNav";
 import Footer from "./Footer";
 import Home from "./Home";
 import About from "./About";
-import Products from ".Products";
+import Products from "./Products";
 import Company from "./Company";
 import "./App.css";
 
